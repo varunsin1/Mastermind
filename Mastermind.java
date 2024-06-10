@@ -1,9 +1,7 @@
 /*
 Varun Singh
-AP CSA P3
 Mastermind Game
 */
-
 
 import java.util.Scanner;
 import java.util.Arrays;
